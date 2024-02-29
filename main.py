@@ -14,6 +14,8 @@ b.prepend(-25)
 b.prepend(0)
 b.prepend(4)
 b.prepend(-17)
+
+# Primer parcial María Esther Tigüilá Soloj - 1627021
 while True:
     print("\n")
     print("------BIENVENIDO-----")
