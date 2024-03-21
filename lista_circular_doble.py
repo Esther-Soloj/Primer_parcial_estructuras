@@ -10,7 +10,7 @@ class DoublyLinkedList:
         # size = para llevar el tamaño de la lista
         self.size = 0
 
-    @property
+    # @property
     # metodo first para verificar si hay algun dato en la cabeza de la lista
     # si no hay nada , lanza un mensaje que dice que la lista esta vacia
     def first(self) -> Nodo:
@@ -19,7 +19,7 @@ class DoublyLinkedList:
         else:
             return self.head
 
-    @property
+    # @property
     # metodo last para verificar si hay algun dato al final de la lista
     def last(self) -> Nodo:
         if self.is_empty():

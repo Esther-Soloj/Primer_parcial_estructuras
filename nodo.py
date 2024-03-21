@@ -5,3 +5,4 @@ class Nodo:
         self.data = data
         self.prev = None
         self.next = None
+#
